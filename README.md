@@ -1,2 +1,2 @@
-# Shop-Stop
+# ShopStop
 Simple ExpressJS App
